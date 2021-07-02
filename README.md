@@ -13,7 +13,7 @@
 在```HoshinoBot\hoshino\modules```目录下使用以下命令拉取本项目
 
 ```
-git clone https://github.com/Lanly109/CodingReminder.git
+git clone https://github.com/pcrbot/CodingReminder.git
 ```
 
 进入该目录后使用如下命令安装依赖
